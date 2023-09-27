@@ -1,0 +1,7 @@
+name: SpawnUtils
+main: signifies.com.spawnutils.SpawnUtils
+version: 1.0
+author: Signifies
+website: signifies.github.io
+description: Utility spawning/tp plugin for various uses for streaming. ETC.
+
